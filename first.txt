@@ -1,1 +1,6 @@
 Hello git
+
+todays date is 27th oct 2023
+
+today is 4th lesson og git module
+
