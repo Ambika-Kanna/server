@@ -6,7 +6,7 @@ today is 6th lesson og git module
 
 modifying first
 
-today is wednesday
+today is wednesday 25
 
 
 
