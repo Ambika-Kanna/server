@@ -7,3 +7,16 @@ today is 6th lesson og git module
 
 modifying first
 
+<<<<<<< HEAD
+=======
+this added from local by user 1  by user 1
+
+
+=======
+todays date is 30th oct 2023
+>>>>>>> b78eedb1f72008dcb01144645bb03d380f3910ca
+
+
+this change has been done by user2 by system 2
+hi
+>>>>>>> 7f6de7f5b40f60e907b14255188b558fe57e0a53
