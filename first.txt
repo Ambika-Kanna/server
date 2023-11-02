@@ -6,3 +6,5 @@ today is 6th lesson og git module
 
 modifying first .txt
 
+02/11/2023
+
