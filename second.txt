@@ -4,3 +4,5 @@ nothing much waiting for weekend
 
 today is wednesday
 
+
+learn to resolve git conflict today
