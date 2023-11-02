@@ -1,0 +1,5 @@
+hello
+ good aternoon
+
+creating changes that need to be puhed 
+pulling from git
