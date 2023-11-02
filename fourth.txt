@@ -1,3 +1,2 @@
 Hello ,good evening
-
-today is last leeson of git
+today is thrusday
